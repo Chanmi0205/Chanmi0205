@@ -1,4 +1,8 @@
-### Hello! 👋
+### Hello! 
+
+### I am a Korean student who is dreaming of becoming a developer.
+
+### programming language in interested : JAVA, C#, Python
 
 <!--
 **Chanmi0205/Chanmi0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
