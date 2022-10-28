@@ -2,7 +2,6 @@
 
 ### I am a Korean student who is dreaming of becoming a developer.
 
-
 ### programming language in interested : JAVA, C#, Python
 
 ### Test3
@@ -23,6 +22,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanmi0205&show_icons=true&theme=nord)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
