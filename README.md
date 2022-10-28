@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanmi0205&show_icons=true&theme=nord)
 
-<a href="https://www.naver.com/" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=Instagram&logoColor=E4405F"/></a>
+<a href="https://www.naver.com/" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=Instagram&logoColor=E4405F"/>Instagram</a>
