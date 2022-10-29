@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-  (https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.instagram.com%2Fchanmi_47%2F&count_bg=%23000000&title_bg=%23E4405F&icon=         instagram.svg&icon_color=%23FFFFFF&title=찬미_47&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww  .instagram.com%2Fchanmi_47%2F&count_bg=%23000000&title_bg=%23E4405F&icon=instagram.svg&icon_color=%23FFFFFF&title=Chanmi_47&edge_flat=false"/></a>
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
