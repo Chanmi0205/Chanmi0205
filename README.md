@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/JSP-{E5D85C}?style={plastic}&logo={}&logoColor={}"/>
+  <img src="https://img.shields.io/badge/JSP-{E5D85C}?style={flat-square}&logo={}&logoColor={}"/>
   
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   
