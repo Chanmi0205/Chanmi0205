@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ### Hello! 
 
 ### I am a Korean student who is dreaming of becoming a developer.
