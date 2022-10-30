@@ -31,8 +31,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
  
-  <a href="https://www.instagram.com/chanmi_47/" target="_blank"><img src="https://img.shields.io/badge/Chanmi_47-E4405F?style=flat square&logo=Instagram&logoColor=FFFFFF"/></a>
+  <a href="https://www.instagram.com/chanmi_47/" target="_blank">
+  <img src="https://img.shields.io/badge/Chanmi_47-E4405F?style=flat square&logo=Instagram&logoColor=FFFFFF"/></a>
   <a href="https://chanmi1.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-FFFFFF?style=flat-square&logo=Revolut&logoColor=000000"/></a>
-   <a href="https://chanmi1.tistory.com/">블로그</a> | <a href="https://www.instagram.com/chanmi_47/">인스타그램</a>
+   
  
   </p>
