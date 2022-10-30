@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vue-dark.app/api?username=Chanmi0205&show_icons=true&theme=nord) 
+![Anurag's GitHub stats](https://github-readme-stats.vue-vercel.app/api?username=Chanmi0205&show_icons=true&theme=vue-dark) 
 
 ### I can do!!
 
