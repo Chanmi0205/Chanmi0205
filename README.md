@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 ### My instagram and blog!
 <p>
   
-  <a target="_blank" href="https://www.instagram.com/chanmi_47/" target="_blank">
+  <a href="https://www.instagram.com/chanmi_47/" target="_blank">
   <img src="https://img.shields.io/badge/Chanmi_47-E4405F?style=flat square&logo=Instagram&logoColor=FFFFFF"/></a>
-  <a target="_blank" href="https://chanmi1.tistory.com/" target="_blank">
+  <a href="https://chanmi1.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/BLOG-FFFFFF?style=flat-square&logo=Revolut&logoColor=000000"/></a>
 
 </p>  
