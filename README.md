@@ -32,10 +32,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JSP-DD6620?style=flat-square&logo=JSP&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+ 
+  </p>
   
   <a class="aTag"href="https://chanmi1.tistory.com/">블로그</a> | <a class="aTag"href="https://www.instagram.com/chanmi_47/">인스타그램</a>
  
-  </p>
-
-<br/> <br/>
-
