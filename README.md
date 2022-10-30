@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
  
-   <a href="https://chanmi1.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
+  <a href="[버튼을 눌렀을 때 이동할 링크](https://chanmi1.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
    
    <a href="https://chanmi1.tistory.com/">블로그</a> | <a href="https://www.instagram.com/chanmi_47/">인스타그램</a>
  
