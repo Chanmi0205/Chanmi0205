@@ -45,5 +45,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Chanmi_47-E4405F?style=flat square&logo=Instagram&logoColor=FFFFFF"/></a>
   <a href="https://chanmi1.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/BLOG-FFFFFF?style=flat-square&logo=Revolut&logoColor=000000"/></a>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=000000"/
 
 </p>  
