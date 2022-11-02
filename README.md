@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=000000"/>
   
 </p>
 
@@ -45,6 +46,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Chanmi_47-E4405F?style=flat square&logo=Instagram&logoColor=FFFFFF"/></a>
   <a href="https://chanmi1.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/BLOG-FFFFFF?style=flat-square&logo=Revolut&logoColor=000000"/></a>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=000000"/
 
 </p>  
