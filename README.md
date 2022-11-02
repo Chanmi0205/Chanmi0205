@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JSP-DD6620?style=flat-square&logo=JSP&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C#-8041D9?style=flat-square&logo=C#&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/C#-8041D9?style=flat-square&logo=C#&logoColor=white"/></a>
   
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
   
