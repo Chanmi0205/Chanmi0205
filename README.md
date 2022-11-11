@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 
-### My instagram and blog!
+### My Community
 <p>
   
   <a href="https://www.instagram.com/chanmi_47/" target="_blank">
