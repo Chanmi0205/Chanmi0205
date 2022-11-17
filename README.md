@@ -51,8 +51,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/BAEKJOON-ffffff?style=flat-square"/></a>
   
   <a href="https://www.facebook.com/profile.php?id=100025388252561" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=FFFFFF"/></a>
+  <img src="https://img.shields.io/badge/박찬미-1877F2?style=flat-square&logo=Facebook&logoColor=FFFFFF"/></a>
    <a href="https://www.instagram.com/chanmi_47/" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM Chanmi_47-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
+  <img src="https://img.shields.io/badge/Chanmi_47-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
   
 </p>  
