@@ -55,7 +55,11 @@ Here are some ideas to get you started:
    <a href="https://www.instagram.com/chanmi_47/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
   
+</p>
+
 ###화이트해커 경진대회_대상
+
+<p>
   <a href="http://autotimes.hankyung.com/apps/news.sub_view?popup=0&nid=03&c1=03&c2=03&c3=00&nkey=202211141041401" target="_blank">
   <img src="https://img.shields.io/badge/화이트해커 경진대회_대상-000000?style=flat-square&logo=AngelList&logoColor=FFFFFF"/></a>
   
