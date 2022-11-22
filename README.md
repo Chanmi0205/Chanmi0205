@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   
 </p>
 
-###화이트해커 경진대회_대상
+### 화이트해커 경진대회_대상
 
 <p>
   <a href="http://autotimes.hankyung.com/apps/news.sub_view?popup=0&nid=03&c1=03&c2=03&c3=00&nkey=202211141041401" target="_blank">
