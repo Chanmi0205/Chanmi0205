@@ -49,6 +49,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/BLOG-FFFFFF?style=flat-square&logo=Revolut&logoColor=000000"/></a>
    <a href="https://www.acmicpc.net/user/chanmi1155" target="_blank">
   <img src="https://img.shields.io/badge/BAEKJOON-ffffff?style=flat-square"/></a>
+  <a href="https://www.blogger.com/blog/posts/4879512704767517862" target="_blank">
+  <img src="https://img.shields.io/badge/BLOG2_Linux-FFFFFF?style=flat-square&logo=Revolut&logoColor=000000"/></a>
   
   <a href="https://www.facebook.com/profile.php?id=100025388252561" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=FFFFFF"/></a>
