@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 ### My Community!
-<p>
+<div>
   
   <a href="https://chanmi1.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/BLOG-FFFFFF?style=flat-square&logo=Revolut&logoColor=000000"/></a>
@@ -52,16 +52,16 @@ Here are some ideas to get you started:
   <a href="https://www.blogger.com/blog/posts/4879512704767517862" target="_blank">
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=FFFFFF"/></a>
 
-</p>
+</div>
                               
-<p>
+<div>
   
   <a href="https://www.facebook.com/profile.php?id=100025388252561" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=FFFFFF"/></a>
    <a href="https://www.instagram.com/chanmi_47/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
   
-</p>
+</div>
 
 ### 화이트해커 경진대회_대상
 
