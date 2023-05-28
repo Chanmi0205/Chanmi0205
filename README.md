@@ -33,8 +33,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React&logoColor=61DAFB"/>
   
 </p>
 
