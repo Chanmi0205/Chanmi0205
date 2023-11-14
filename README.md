@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default&show_icons=true)
-### I can do!!
+### I can do
 
 <p align="center">
   
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </p>
 
 
-### My Community!
+### My Community
 <p>
   
   <a href="https://chanmi1.tistory.com/" target="_blank">
