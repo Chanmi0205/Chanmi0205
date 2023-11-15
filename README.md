@@ -66,6 +66,6 @@ Here are some ideas to get you started:
   
 </p>  
 
-### -------------------
+### ---------------------------------------------------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanmi0205&theme=vue&show_icons=true)
