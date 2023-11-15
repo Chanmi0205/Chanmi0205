@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/> <!-- Spring --> + 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/> <!-- Spring boot -->
-  <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=FFFFFF"/> <!-- Spring thymeleaf -->
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=FFFFFF"/> <!-- Spring Thymeleaf -->
   <img src="https://img.shields.io/badge/JPA-3C9B43?style=flat-square&logo=JPA&logoColor=white"/> <!-- JPA -->
-  <img src="https://img.shields.io/badge/junit5-25A162?style=flat-square&logo=junit5&logoColor=FFFFFF"/> <!-- Spring junit5 -->
+  <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=FFFFFF"/> <!-- Spring Junit5 -->
 </p>
 
 
