@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/> <!-- Spring boot -->
   <img src="https://img.shields.io/badge/thymeleaft-005F0F?style=flat-square&logo=thymeleaf&logoColor=FFFFFF"/> <!-- Spring thymeleaf -->
-  <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=JPA&logoColor=white"/> <!-- JPA -->
+  <img src="https://img.shields.io/badge/JPA-58C25A?style=flat-square&logo=JPA&logoColor=white"/> <!-- JPA -->
 </p>
 
 
