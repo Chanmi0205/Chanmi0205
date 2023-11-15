@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanmi0205&theme=vue&show_icons=true)
-
 ### I can do
 
 <p align="center">
@@ -67,3 +65,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/compensation-FF6633?style=flat-square&logo=AngelList&logoColor=FFFFFF"/></a>
   
 </p>  
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanmi0205&theme=vue&show_icons=true)
