@@ -37,8 +37,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=#2C2255"/> <!-- Intellij -->
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/> <!-- Spring -->
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/> <!-- Spring boot -->
   
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/> <!-- Spring boot -->
+  <img src="https://img.shields.io/badge/thymeleaft-005F0F?style=flat-square&logo=thymeleaf&logoColor=FFFFFF"/> <!-- Spring boot -->
 </p>
 
 
