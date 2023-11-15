@@ -36,10 +36,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=#2C2255"/> <!-- Eclipse -->
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=#2C2255"/> <!-- Intellij -->
 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/> <!-- Spring --> > 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/> <!-- Spring --> + 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/> <!-- Spring boot -->
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=FFFFFF"/> <!-- Spring thymeleaf -->
   <img src="https://img.shields.io/badge/JPA-3C9B43?style=flat-square&logo=JPA&logoColor=white"/> <!-- JPA -->
+  <img src="https://img.shields.io/badge/junit5-25A162?style=flat-square&logo=junit5&logoColor=FFFFFF"/> <!-- Spring junit5 -->
 </p>
 
 
