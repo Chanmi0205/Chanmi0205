@@ -57,15 +57,6 @@ Here are some ideas to get you started:
 
 </p>
 
-
-### 화이트해커 경진대회_대상
-
-<p>
-  <a href="http://autotimes.hankyung.com/apps/news.sub_view?popup=0&nid=03&c1=03&c2=03&c3=00&nkey=202211141041401" target="_blank">
-  <img src="https://img.shields.io/badge/compensation-FF6633?style=flat-square&logo=AngelList&logoColor=FFFFFF"/></a>
-  
-</p>  
-
 ### ---------------------------------------------------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanmi0205&theme=vue&show_icons=true)
