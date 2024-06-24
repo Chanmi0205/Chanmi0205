@@ -41,7 +41,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JPA-3C9B43?style=flat-square&logo=JPA&logoColor=white"/> <!-- JPA -->
   <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=FFFFFF"/> <!-- Spring Junit5 -->
 
-  <img src="https://img.shields.io/badge/GIT-F05032?styled=for-the-badge&logo=git&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Github-181717?styled=for-the-badge&logo=github&logoColor=FFFFFF" /> <!-- Github --> + 
+  <img src="https://img.shields.io/badge/GIT-F05032?styled=for-the-badge&logo=git&logoColor=FFFFFF" /> <!-- Git -->
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?styled=for-the-badge&logo=sourcetree&logoColor=FFFFFF" /> <!-- Git -->
   <!-- <img src="https://img.shields.io/badge/{배지에 표시될 이름}-{배지 배경 색상}?styled=for-the-badge&logo={배지 로고}&logoColor={로고 색상}" /> -->
   
 </p>
