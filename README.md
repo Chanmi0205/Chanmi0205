@@ -30,10 +30,6 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/> <!-- Mysql -->
   <img src="https://img.shields.io/badge/oracle-white?style=flat-square&logo=oracle&logoColor=red"/> <!-- oracle -->
-  
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <!-- Android Studio -->
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=#2C2255"/> <!-- Eclipse -->
-  <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=#2C2255"/> <!-- Intellij -->
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/> <!-- Spring --> + 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/> <!-- Spring boot -->
@@ -45,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GIT-F05032?styled=for-the-badge&logo=git&logoColor=FFFFFF" /> <!-- Git -->
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?styled=for-the-badge&logo=sourcetree&logoColor=FFFFFF" /> <!-- Git -->
   <!-- <img src="https://img.shields.io/badge/{배지에 표시될 이름}-{배지 배경 색상}?styled=for-the-badge&logo={배지 로고}&logoColor={로고 색상}" /> -->
-  
+
 </p>
 
 ### My Community
