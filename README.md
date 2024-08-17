@@ -48,13 +48,15 @@ Here are some ideas to get you started:
 <p>
   
   <a href="https://chanmi1.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/BLOG-FFFFFF?style=flat-square&logo=Revolut&logoColor=000000"/></a>
+  <img src="https://img.shields.io/badge/BLOG-FFFFFF?style=flat-square&logo=Revolut&logoColor=000000"/></a> <!-- tistory -->
+  
    <a href="https://www.acmicpc.net/user/chanmi1155" target="_blank">
-  <img src="https://img.shields.io/badge/BAEKJOON-ffffff?style=flat-square"/></a>
-  <a href="https://www.blogger.com/blog/posts/4879512704767517862" target="_blank">
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=FFFFFF"/></a> & <a href="https://www.facebook.com/profile.php?id=100025388252561" target="_blank">
+  <img src="https://img.shields.io/badge/BAEKJOON-ffffff?style=flat-square"/></a> <!-- 백준 -->
+  
+   & 
+   
    <a href="https://www.instagram.com/chanmi_47/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a> <!-- 인스타그램 -->
 
 </p>
 
