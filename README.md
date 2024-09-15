@@ -38,6 +38,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SpringDataJPA-3C9B43?style=flat-square&logo=SpringDataJPA&logoColor=white"/> <!-- SpringDataJPA -->
   <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=FFFFFF"/> <!-- Spring Junit5 -->
 
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/> <!-- Node.js -->
+
   <img src="https://img.shields.io/badge/Github-181717?styled=for-the-badge&logo=github&logoColor=FFFFFF" /> <!-- Github --> + 
   <img src="https://img.shields.io/badge/GIT-F05032?styled=for-the-badge&logo=git&logoColor=FFFFFF" /> <!-- Git -->
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?styled=for-the-badge&logo=sourcetree&logoColor=FFFFFF" /> <!-- Git -->
