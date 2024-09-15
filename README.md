@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=FFFFFF"/> <!-- Spring Thymeleaf -->
   <img src="https://img.shields.io/badge/JPA-3C9B43?style=flat-square&logo=JPA&logoColor=white"/> <!-- JPA -->
   <img src="https://img.shields.io/badge/SpringDataJPA-3C9B43?style=flat-square&logo=SpringDataJPA&logoColor=white"/> <!-- SpringDataJPA -->
+  <img src="https://img.shields.io/badge/Querydsl-0769AD?style=flat-square&logoColor=white"/> <!-- Querydsl -->
   <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=FFFFFF"/> <!-- Spring Junit5 -->
 
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/> <!-- Node.js -->
